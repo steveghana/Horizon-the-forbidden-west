@@ -1,0 +1,5 @@
+export {default as Boss } from '../assets/images/IMG7.png'
+export {default as cosplay } from '../assets/images/1 copy.png'
+export {default as Fanversion } from '../assets/images/Rectangle2.png'
+export {default as underwater } from '../assets/images/IMG8.png'
+export {default as massiveWorld } from '../assets/images/IMG9.png'

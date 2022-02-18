@@ -1,10 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import Home from "./components/HomePage/HomPage";
-import "./_main.scss";
-ReactDOM.render(
-  <React.StrictMode>
-    <Home />,
-  </React.StrictMode>,
-  document.getElementById("root")
-);
+import ReactDom from "react-dom";
+import Home from "./components/home";
+
+ReactDom.render(<Home />, document.getElementById("root"));
